@@ -37,7 +37,7 @@ This repository is organized to follow the data pipeline from ingestion to visua
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](Dashboard Screenshot.png)
+![Dashboard Preview](Dashoboard%20Screenshot.png)
 
 ## 💻 How to Run This Project
 1.  **Clone the repository:**
