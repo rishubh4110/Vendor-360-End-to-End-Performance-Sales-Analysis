@@ -36,8 +36,8 @@ This repository is organized to follow the data pipeline from ingestion to visua
 * **Seasonality Trends:** Sales data indicates a **35% spike in demand during Q4 (Holiday Season)** compared to the yearly average, validating the need for increased inventory buffers in Q3.
 
 ## 📈 Dashboard Preview
-*(Upload a screenshot of your Power BI dashboard here and link it)*
-![Dashboard Screenshot](path/to/your/image.png)
+
+!Dashoboard Screenshot.png
 
 ## 💻 How to Run This Project
 1.  **Clone the repository:**
